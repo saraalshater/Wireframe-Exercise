@@ -1,0 +1,134 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: 'Noto Sans', sans-serif;
+    background-color: whitesmoke;
+}
+
+header {
+    background-color: rgb(83, 82, 82);
+    position: relative;
+}
+
+header img {
+    position: relative;
+    padding-left: 196px;
+    padding-top: 20px;
+}
+
+
+
+
+
+nav ul{
+    position: relative;
+    left: 420px;
+    bottom: 40px;
+
+
+   
+    
+}
+
+nav ul li {
+    display: inline-block;
+    padding-right: 110px;
+    
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+    
+
+
+}
+
+a:hover{
+    color: rgb(99, 15, 15);
+}
+
+
+
+
+#heropic {
+    display: block;
+  margin:30px auto 30px auto;
+  width: 960px;
+
+}
+
+#row2 {
+    
+  display: block;
+  margin: 30px auto 30px auto;
+  width: 960px;
+}
+
+
+#row2 img {
+    margin: 8px;
+}
+
+
+
+#row3 {
+    display: block;
+  margin:30px auto 30px auto;
+  width: 960px;
+  height: 400px;
+  padding-bottom: 30px;
+  
+}
+
+
+#right-colomn {
+    position: relative;
+    float: right;
+    
+    width: 450px;
+    height: 330px;
+}
+
+#left-colomn {
+    float: left;
+}
+
+
+p{
+    overflow : scroll;
+    height: 350px;
+    
+}
+
+button{
+    background-color: rgb(12, 12, 12);
+    border-color: rgb(12, 12, 12);
+    color: blanchedalmond;
+    width: 200px;
+    height: 35px;
+}
+
+button:hover{
+    border-color: blanchedalmond;
+    color: rgb(12, 12, 12);
+
+}
+
+footer{
+    clear: both;
+    background-color: rgb(83, 82, 82);
+    height: 100px;
+    
+
+}
+
+
+
+
+
+
+
